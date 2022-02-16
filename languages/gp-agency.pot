@@ -1,0 +1,400 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gp-"
+"agency\n"
+"POT-Creation-Date: "
+"2021-09-13 19:25+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: "
+"goodwinpress@ya.ru\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.2.4\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/load-options.php:78
+msgid "Открыть обсуждение"
+msgstr ""
+
+#: admin/load-options.php:79
+msgid "Cкрыть обсуждение"
+msgstr ""
+
+#: archive-projects.php:74
+#: single-projects.php:52
+msgid "Бюджет"
+msgstr ""
+
+#: archive.php:41
+#: index.php:44
+msgid ""
+"На сайте пока нет записей"
+msgstr ""
+
+#: archive.php:49
+#: index.php:52
+msgid ""
+"Показать больше записей"
+msgstr ""
+
+#: comments.php:6
+#: files/front/inner-page-order-form.php:10
+#: files/front/poster-popup.php:10
+#: homepage-blocks/home-form1.php:8
+#: homepage-blocks/home-form2.php:9
+msgid ""
+"Я даю согласие на сбор и "
+"обработку персональных "
+"данных"
+msgstr ""
+
+#: comments.php:7
+#: files/front/inner-page-order-form.php:11
+#: files/front/poster-popup.php:11
+#: homepage-blocks/home-form1.php:9
+#: homepage-blocks/home-form2.php:10
+msgid ""
+"Политика "
+"конфиденциальности"
+msgstr ""
+
+#: comments.php:17
+msgid "Обсуждение:"
+msgstr ""
+
+#: comments.php:17
+msgid ""
+"пока нет комментариев"
+msgstr ""
+
+#: comments.php:17
+msgid "1 комментарий"
+msgstr ""
+
+#: comments.php:17
+msgid "% коммент."
+msgstr ""
+
+#: comments.php:33
+msgid ""
+"Предыдущие комментарии"
+msgstr ""
+
+#: comments.php:34
+msgid "Новые комментарии"
+msgstr ""
+
+#: comments.php:41
+msgid ""
+"Комментирование закрыто"
+msgstr ""
+
+#: comments.php:51
+#: comments.php:59
+msgid ""
+"Оставить комментарий"
+msgstr ""
+
+#: comments.php:52
+#: comments.php:60
+msgid "Отправить"
+msgstr ""
+
+#: contact-page.php:62
+msgid "Адрес"
+msgstr ""
+
+#: contact-page.php:65
+#: contact-page.php:72
+msgid "Звоните"
+msgstr ""
+
+#: contact-page.php:78
+msgid "График работы"
+msgstr ""
+
+#: contact-page.php:79
+msgid "пн - пт"
+msgstr ""
+
+#: contact-page.php:79
+msgid "сб-вс"
+msgstr ""
+
+#: contact-page.php:84
+msgid ""
+"Мы в социальных сетях"
+msgstr ""
+
+#: files/back/breadcrumbs.php:11
+msgid "Главная"
+msgstr ""
+
+#: files/back/breadcrumbs.php:12
+msgid "Статьи и новости"
+msgstr ""
+
+#: files/back/breadcrumbs.php:14
+msgid "Результаты поиска"
+msgstr ""
+
+#: files/back/breadcrumbs.php:15
+msgid "Записи с тегом"
+msgstr ""
+
+#: files/back/breadcrumbs.php:16
+msgid "Ошибка 404"
+msgstr ""
+
+#: files/back/breadcrumbs.php:17
+msgid "Страница "
+msgstr ""
+
+#: files/back/breadcrumbs.php:18
+msgid ""
+"Страница комментариев "
+msgstr ""
+
+#: files/back/comments-atts.php:34
+msgid ""
+"Ваш комментарий будет "
+"опубликован после "
+"проверки администратором."
+msgstr ""
+
+#: files/back/optimize.php:124
+msgid ""
+"Сохранить имя и e-mail в "
+"этом браузере для моих "
+"последующих комментариев"
+msgstr ""
+
+#: files/back/project-functions.php:30
+msgid ""
+"Поставьте галочку для "
+"вывода карточки на "
+"Главной странице"
+msgstr ""
+
+#: files/back/project-post_type.php:7
+#: files/back/project-post_type.php:9
+#: files/back/project-post_type.php:45
+msgid "Проекты"
+msgstr ""
+
+#: files/back/project-post_type.php:8
+#: files/back/project-post_type.php:10
+#: files/back/project-post_type.php:44
+msgid "Проект"
+msgstr ""
+
+#: files/back/project-post_type.php:11
+msgid "Архив Проектов"
+msgstr ""
+
+#: files/back/project-post_type.php:12
+msgid "Свойства"
+msgstr ""
+
+#: files/back/project-post_type.php:13
+msgid ""
+"Родительская карточка "
+"Проекта:"
+msgstr ""
+
+#: files/back/project-post_type.php:14
+msgid "Все Проекты"
+msgstr ""
+
+#: files/back/project-post_type.php:15
+#: files/back/project-post_type.php:16
+msgid ""
+"Добавить новый Проект"
+msgstr ""
+
+#: files/back/project-post_type.php:17
+msgid "Новый Проект"
+msgstr ""
+
+#: files/back/project-post_type.php:18
+msgid "Редактировать "
+msgstr ""
+
+#: files/back/project-post_type.php:19
+msgid "Обновить "
+msgstr ""
+
+#: files/back/project-post_type.php:20
+#: files/back/project-post_type.php:21
+msgid "Посмотреть"
+msgstr ""
+
+#: files/back/project-post_type.php:22
+msgid "Искать Проект"
+msgstr ""
+
+#: files/back/project-post_type.php:23
+msgid "Проекты не найдены"
+msgstr ""
+
+#: files/back/project-post_type.php:24
+msgid "Не найдено"
+msgstr ""
+
+#: files/back/project-post_type.php:25
+msgid "Изображение Проекта"
+msgstr ""
+
+#: files/back/project-post_type.php:26
+msgid ""
+"Установить изображение "
+"Проекта"
+msgstr ""
+
+#: files/back/project-post_type.php:27
+msgid ""
+"Удалить изображение "
+"Проекта"
+msgstr ""
+
+#: files/back/project-post_type.php:28
+msgid ""
+"Использовать как "
+"изображение Проекта"
+msgstr ""
+
+#: files/back/project-post_type.php:29
+msgid "Вставить в "
+msgstr ""
+
+#: files/back/project-post_type.php:30
+msgid "Загружено"
+msgstr ""
+
+#: files/back/project-post_type.php:31
+msgid "Список Проектов"
+msgstr ""
+
+#: files/back/project-post_type.php:32
+msgid ""
+"Навигация по Проектам"
+msgstr ""
+
+#: files/back/project-post_type.php:33
+msgid "Фильтр Проектов"
+msgstr ""
+
+#: files/back/theme-functions.php:308
+#: files/front/blog-anons.php:34
+#: files/front/search-anons.php:22
+msgid "Подробнее"
+msgstr ""
+
+#: files/back/theme-functions.php:319
+msgid "Предыдущие"
+msgstr ""
+
+#: files/back/theme-functions.php:320
+msgid "Следующие"
+msgstr ""
+
+#: files/back/theme-functions.php:321
+msgid "Навигация"
+msgstr ""
+
+#: files/back/theme-functions.php:382
+msgid "Чат в"
+msgstr ""
+
+#: files/back/theme-functions.php:413
+msgid "Предыдущая запись"
+msgstr ""
+
+#: files/back/theme-functions.php:420
+msgid "Следующая запись"
+msgstr ""
+
+#: files/front/recent-posts.php:5
+msgid "Новое в блоге"
+msgstr ""
+
+#: files/front/share-btns.php:7
+msgid ""
+"Поделитесь с друзьями"
+msgstr ""
+
+#: footer.php:48
+msgid ""
+"Дизайн: GoodwinPress"
+msgstr ""
+
+#: functions.php:151
+msgid "Сайдбар"
+msgstr ""
+
+#: homepage-blocks/home-feedback.php:7
+msgid ""
+"Ссылка на объект в "
+"портфолио"
+msgstr ""
+
+#: search.php:15
+msgid "Вы искали"
+msgstr ""
+
+#: search.php:16
+msgid "Найдено публикаций"
+msgstr ""
+
+#: search.php:29
+msgid ""
+"По вашему запросу ничего "
+"не найдено. Попробуйте "
+"изменить запрос и "
+"поискать снова"
+msgstr ""
+
+#: single-projects.php:51
+msgid "Площадь"
+msgstr ""
+
+#: single.php:47
+msgid "Продолжение"
+msgstr ""
